@@ -7,8 +7,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_1819.mk
-
-COMMON_LUNCH_CHOICES := \
-    omni_1819-user \
-    omni_1819-userdebug \
-    omni_1819-eng
